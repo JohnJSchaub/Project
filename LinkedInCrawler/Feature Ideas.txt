@@ -1,0 +1,3 @@
+- Track Distance from you and revisit close connections every 2 months to promote top of mind
+- Track location upon visit
+- Track number of connections and combine with link count to get a better sense of value
