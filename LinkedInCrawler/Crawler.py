@@ -7,6 +7,8 @@ import DB
 print "Current Time is: " + str(time.strftime("%Y-%m-%d %H:%M"))
 
 
+#TEST
+
 
 ie = Dispatch("InternetExplorer.Application")  #Create browser instance.
 ie.Visible = 1      # Make it visible (0 = invisible)
